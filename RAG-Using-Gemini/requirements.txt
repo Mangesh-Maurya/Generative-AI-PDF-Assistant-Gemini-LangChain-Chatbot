@@ -1,0 +1,20 @@
+# LangChain Core
+langchain
+langchain-core
+
+langchain-google-genai
+google-generativeai
+
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+langchain_community
+
+streamlit
+langchain_community
+pdfplumber
